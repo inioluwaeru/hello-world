@@ -1,3 +1,4 @@
 # hello-world
-	**bold text**
-  *italicized word*
+**bold text**
+
+*italicized word*
